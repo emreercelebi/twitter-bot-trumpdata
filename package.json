@@ -13,6 +13,5 @@
   "license": "ISC",
   "dependencies": {
     "twit": "^2.2.9"
-  },
-  "start": "node trumpdata.js"
+  }
 }
